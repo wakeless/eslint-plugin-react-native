@@ -23,7 +23,7 @@
   "homepage": "https://github.com/intellicode/eslint-plugin-react-native",
   "bugs": "https://github.com/intellicode/eslint-plugin-react-native/issues",
   "devDependencies": {
-    "@typescript-eslint/parser": "^1.4.2",
+    "@typescript-eslint/parser": "^1.7.0",
     "babel-eslint": "7.2.3",
     "coveralls": "^3.0.2",
     "eslint": "^5.5.0",
